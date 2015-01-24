@@ -1,0 +1,8 @@
+{
+  "name": "PersonalSite",
+  "description": "PErsonal site",
+  "author": "Arturo Mena <artur.1035@gmail.com>",
+  "dependencies": {
+    "express": "*"
+  }
+}
